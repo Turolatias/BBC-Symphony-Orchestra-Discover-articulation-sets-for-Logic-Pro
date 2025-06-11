@@ -4,7 +4,7 @@ These articulation sets can be used on the `Logic Pro` DAW for the [BBC Symphony
 
 # How to install
 
-1. Download the `BBC Symphony Orchestra` file [here](https://github.com/Turolatias/BBC-Symphony-Orchestra-Discover-articulation-sets-for-Logic-Pro?tab=readme-ov-file/releases)
+1. Download the `BBC.Symphony.Orchestra.zip` file [here](https://github.com/Turolatias/BBC-Symphony-Orchestra-Discover-articulation-sets-for-Logic-Pro/releases)
 2. Unzip the file
 3. Put the resulting folder in `<user>/Music/Audio Music Apps/Articulation Settings`
 
